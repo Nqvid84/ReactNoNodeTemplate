@@ -35,7 +35,7 @@ there are some limitation in build time but realistically it's much more than we
 
 ## Live Demo
 
-Check out the live demo of the template [here](demo-link).
+Check out the live demo of the template [here](https://nqvid84.github.io/ReactNoNodeTemplate/).
 
 ## Contributing
 

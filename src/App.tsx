@@ -23,7 +23,7 @@ function App() {
         </section>
         <section>
           <h2>Live Demo</h2>
-          <p>Check out the <a href="demo-link">live demo</a>!</p>
+          <p>Check out the <a href="https://nqvid84.github.io/ReactNoNodeTemplate/">live demo</a>!</p>
         </section>
       </div>
       <footer>
