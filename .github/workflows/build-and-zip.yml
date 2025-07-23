@@ -3,7 +3,7 @@ name: Build and Create ZIP
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
