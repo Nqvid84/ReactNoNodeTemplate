@@ -16,6 +16,7 @@ function App() {
         <section>
           <h2>Features</h2>
           <ul>
+            <li>test</li>
             <li>No local Node.js installation required</li>
             <li>Automatic builds and deployment to GitHub Pages</li>
             <li>Pre-configured libraries and tools</li>
